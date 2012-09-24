@@ -1,0 +1,10 @@
+D:\MetaSoundReadactor\MetaSoundReadactor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MetaSoundReadactor\MetaSoundReadactor\obj\x86\Debug\MetaSoundReadactor.MainForm.resources
+D:\MetaSoundReadactor\MetaSoundReadactor\obj\x86\Debug\MetaSoundReadactor.Properties.Resources.resources
+D:\MetaSoundReadactor\MetaSoundReadactor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MetaSoundReadactor\MetaSoundReadactor\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MetaSoundReadactor\MetaSoundReadactor\bin\Debug\MetaSoundReadactor.exe
+D:\MetaSoundReadactor\MetaSoundReadactor\bin\Debug\MetaSoundReadactor.pdb
+D:\MetaSoundReadactor\MetaSoundReadactor\bin\Debug\NAudio.dll
+D:\MetaSoundReadactor\MetaSoundReadactor\obj\x86\Debug\MetaSoundReadactor.exe
+D:\MetaSoundReadactor\MetaSoundReadactor\obj\x86\Debug\MetaSoundReadactor.pdb
